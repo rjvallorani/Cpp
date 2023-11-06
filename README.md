@@ -22,6 +22,10 @@ The `BlueprintableLightSwitch` class is an extension of the `LightSwitch` class,
 
 The `ExplodingBarrel` class represents a barrel that explodes when triggered. It demonstrates how to create objects with dynamic behavior, such as explosive effects and damage propagation. This class can be used to create interactive and destructible elements in your game world.
 
+### Custom Projectile
+
+The `CustomProjectile` class represents a projectile that can be fired from weapons in your game. It handles the movement and collision detection of the projectile, allowing it to interact with other actors in the game world. This class can be customized to implement specific projectile behaviors, such as damage calculations or visual effects.
+
 
 ## Acknowledgements
 
